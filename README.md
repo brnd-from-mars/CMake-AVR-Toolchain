@@ -1,4 +1,4 @@
-# cmake-avr-toolchain
+# CMake-AVR-Toolchain
 AVR toolchain to be used in e.g. CLion AVR projects
 
 
